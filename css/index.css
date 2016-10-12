@@ -55,7 +55,8 @@ a.menu-link:hover, a.menu-link:visited a.menu-link:active, a.menu-link-now:hover
     bottom: -1px;
     text-indent: 1em;
 }
-.image-text p {font-size: 16px; font-weight: bold; color: #bbb;}
+.image-text p {display:inline; font-size: 16px; font-weight: bold; color: #bbb;}
+.hot-tag {font-size: 16px; font-weight: bold; color: #ed5d04; float:right; margin-right: 1em;}
 
 #about-content {text-align: left; padding: 10px 0; color: #eee; position: relative;}
 .me-image {width: 100%; position: relative; top: -10px;}
