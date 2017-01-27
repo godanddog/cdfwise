@@ -4,6 +4,7 @@
     <list default="true" id="1bb4aa26-4e1f-484a-9aea-347751609e55" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/family_album.html" afterPath="$PROJECT_DIR$/family_album.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="cdfwise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +28,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.44993663">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1178">
-                  <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+                <state relative-caret-position="608">
+                  <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="family_album.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="family_album.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/family_album.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+                <state relative-caret-position="304">
+                  <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -64,7 +65,7 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="893">
+                <state relative-caret-position="852">
                   <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
                   <folding />
                 </state>
@@ -92,8 +93,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/family_album.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -408,11 +409,12 @@
       <workItem from="1478972146158" duration="341000" />
       <workItem from="1478972796818" duration="75000" />
       <workItem from="1484848325458" duration="289000" />
+      <workItem from="1485504677337" duration="3075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28534000" />
+    <option name="totallyTimeSpent" value="31609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -464,6 +466,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/family_album.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
@@ -762,24 +796,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
+        <state relative-caret-position="852">
           <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/family_album.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        <state relative-caret-position="304">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
           <folding />
         </state>
       </provider>
